@@ -1,6 +1,7 @@
 # MapsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+Don't use angular CLI for first deploy application, because only with npm start/build generate the environment variables.
 
 ## Development server
 
